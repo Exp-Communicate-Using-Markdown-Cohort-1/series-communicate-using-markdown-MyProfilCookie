@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on **liking**
 
 ###<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+####<h4 align="left"></h4>
 ```
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
