@@ -12,5 +12,16 @@
 $ git init
 Initialized empty Git repository inside current folder
 ```
+```js
+ const add = (a,b)=>a+b;
+```
+```python
+name ="MyProfilCookie"
+
+for i in range(10):
+    if i%2 == 0:
+        print(i)
+```
+
 
 
