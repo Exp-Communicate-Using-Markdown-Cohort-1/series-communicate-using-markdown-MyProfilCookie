@@ -6,3 +6,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
